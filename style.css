@@ -1,0 +1,30 @@
+.buttons_container{
+    margin-bottom: 20px;
+}
+.main_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#btn_map{
+    background-color: greenyellow;
+    color: black;
+}
+
+#btn_path{
+    background-color: deepskyblue;
+    color: black;
+}
+
+#btn_clear{
+    background-color: red;
+    color: black;
+}
+.map_container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px; 
+}
